@@ -1,0 +1,1 @@
+print("Olá mundo!")#Imprime na tla "olá mundo!"
